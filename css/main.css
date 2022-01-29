@@ -1,0 +1,16 @@
+h1 {
+    color: #E0FFFF;
+    -webkit-text-stroke: 1px blue;
+}
+body {
+    background-color: #beffe9;
+}
+p {
+    color: #000080;
+}
+a {
+    color: #8A2BE2;
+}
+ul {
+    color: #3CB371;
+}
