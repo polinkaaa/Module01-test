@@ -18,7 +18,7 @@ body {
     color: lightgreen;
     background-color: rebeccapurple;
     font-weight: 700;
-    padding: 10px 15px;
+    padding: 5px 15px;
 }
 ul {
     display: flex;
